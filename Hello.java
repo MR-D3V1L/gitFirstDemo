@@ -8,7 +8,7 @@ class HelloWorld
 	{ 
         System.out.println("Hello, World"); 
        
-        greeting(Imran);
+        greeting("git");
     } 
     
     public static void greeting(string name){
