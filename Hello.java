@@ -6,23 +6,15 @@ class HelloWorld
 	// Prints "Hello, World" to the terminal window. 
 	public static void main(String args[]) 
 	{ 
-        System.out.println("Hello, World"); 
-       
-        greeting("git");
+        System.out.println("Hello, World");   
+        
     } 
     
-    public static void greeting(string name){
-
-        System.out.println("Welcome"+ name;);
-
-
-    }
-
-    public static int sqr(int x) {
-
-        return x*x;
-
-
+    public static void massage() { 
+        
+        System.out.println(boo yhea);
 
     }
+
+    
 } 
